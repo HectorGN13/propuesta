@@ -32,6 +32,12 @@ Los objetivos generales de PlansApps consistirán en los siguientes:
 
 # Elemento de innovación
 
-Aspecto, función o tecnología novedosa o innovadora no tratada directamente
-en clase y que será necesario investigar para desarrollar adecuadamente el
-Proyecto.
+* Uso de Onesignal skd y su API extension para Yii2 framework, para enviar notificaciones push en mi aplicación web.
+* Uso de Amazon S3 como servicio de almacenamiento y protección de datos.
+* Uso de Jquery UI widgets de Yii2
+
+
+
+
+
+
